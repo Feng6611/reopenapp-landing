@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1324"/>
+      <stop offset="100%" stop-color="#1d2a4f"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#g)"/>
+  <text x="80" y="250" fill="#eaf0ff" font-family="Inter,Arial,sans-serif" font-size="72" font-weight="700">Command Reopen</text>
+  <text x="80" y="330" fill="#b9c9ef" font-family="Inter,Arial,sans-serif" font-size="44">Cmd+Tab that actually works.</text>
+  <text x="80" y="410" fill="#9db4e8" font-family="Inter,Arial,sans-serif" font-size="32">Fix cmd tab not working mac</text>
+</svg>
